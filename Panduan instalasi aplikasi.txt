@@ -1,0 +1,14 @@
+Login
+Admin
+Username = admin
+Pass = admin
+
+Kasir
+Username = kasir
+Pass = kasir
+
+Owner
+Username = owner
+Pass = owner
+
+============Tested on PHP 5.6.12 (XAMPP v3.2.1)============
